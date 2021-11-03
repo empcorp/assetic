@@ -1,8 +1,8 @@
 {
-    "name": "sanpi/assetic",
+    "name": "empcorp/assetic",
     "description": "Asset Management for PHP",
     "keywords": [ "assets", "compression", "minification" ],
-    "homepage": "https://github.com/sanpi/assetic",
+    "homepage": "https://github.com/empcorp/assetic",
     "type": "library",
     "license": "MIT",
     "authors": [
